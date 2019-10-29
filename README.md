@@ -26,3 +26,8 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 # form-builder
+
+
+		https://mycolor.space/gradient?ori=to+left+top&hex=%23F84A0C&hex2=%23F684BF&sub=1
+		https://codepen.io/vulchivijay/pen/KwBGjX
+		https://css-tricks.com/almanac/properties/t/transition/
